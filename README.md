@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arman
-- 👀 I’m interested in Coding and Playing Chess
+- 👀 I’m interested in Coding and Chess
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me armansayyed7733@gmail.com
