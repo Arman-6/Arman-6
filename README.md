@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Arman
-- 👀 I’m interested in Coding and Chess
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Startups
-- 📫 How to reach me armansayyed7733@gmail.com
-
-<!---
-Arman-6/Arman-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Arman! 
+I'm a computer engineering student who is passionate about learning to code. 
+I'm also an avid chess player and enjoy challenging myself to solve new problems.
+I’m looking to collaborate on Startups
+How to reach me armansayyed7733@gmail.com
