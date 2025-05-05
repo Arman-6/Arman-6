@@ -9,6 +9,7 @@
 I'm a dedicated final-year **Diploma in Computer Engineering** student with a passion for coding, problem-solving, and developing innovative solutions. I continuously strive to expand my knowledge and contribute meaningfully to the tech community.
 
 ## 🎓 Education & Achievements
+- 🏆 Awarded Student of the Year for the batch 2022–2025 for overall excellence
 - 📚 Final-year Diploma in Computer Engineering student
 - 🏅 Scored **91.11%** in my 5th semester examinations
 - 🏅 Scored **90.93%** in the second year of Diploma in Computer Engineering
