@@ -20,7 +20,7 @@ I'm a dedicated final-year **Diploma in Computer Engineering** student with a pa
 
 ### Programming Languages
 ```
-Java  |  Python  |  C  |  C++  |  HTML/CSS
+Java  | XML |  Python  |  C  |  C++  |  HTML/CSS
 ```
 
 ### Frameworks & Tools
