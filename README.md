@@ -9,8 +9,8 @@
 I'm a dedicated final-year **Diploma in Computer Engineering** student with a passion for coding, problem-solving, and developing innovative solutions. I continuously strive to expand my knowledge and contribute meaningfully to the tech community.
 
 ## 🎓 Education & Achievements
-- 🏆 Awarded Student of the Year for the batch 2022–2025 for overall excellence
 - 📚 Final-year Diploma in Computer Engineering student
+- 🏆 Awarded Student of the Year for the batch 2022–2025 for overall excellence
 - 🏅 Scored **91.11%** in my 5th semester examinations
 - 🏅 Scored **90.93%** in the second year of Diploma in Computer Engineering
 - 🥇 Gold Medalist for outstanding performance during Android development internship at Emirates Solutions
@@ -81,14 +81,6 @@ A servlet-based web application that enables users to create professional resume
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armansayyed7733&show_icons=true&locale=en&layout=compact&theme=radical" alt="armansayyed7733" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armansayyed7733&show_icons=true&locale=en&theme=radical" alt="armansayyed7733" />
 </p>
 
 ---
