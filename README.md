@@ -8,6 +8,8 @@
 ## 🚀 About Me
 I'm a dedicated second-year BE Computer Engineering student with a passion for coding, problem-solving, and developing innovative solutions. I continuously strive to expand my knowledge and contribute meaningfully to the tech community.
 
+**Co-founder of [Haritix](https://haritix.vercel.app)** - Building innovative solutions in the tech space.
+
 ## 🎓 Education & Achievements
 - 📚 Second-year BE Computer Engineering student
 - 🏆 Awarded Student of the Year for overall excellence during Diploma in Computer Engineering
